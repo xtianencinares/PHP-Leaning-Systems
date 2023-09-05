@@ -1,0 +1,24 @@
+<?php
+	foreach($add_grade as $grade => $row) {
+       foreach($row as $field => $value) { 
+           $recNew[$field][] = $value;
+		       }
+		}
+		//This creates a new array composed/transposed with the field names as keys and
+		//the "rowed" values as sub-arrays.
+
+		echo "<table>\n"; 
+
+		foreach ($recNew as $key => $values) // For every field name (id, name, last_name, gender)
+		{
+		    echo "<tr>\n"; // start the row
+		    echo "\t<td>" . $key . "</td>\n" ; // create a table cell with the field name
+		        foreach ($values as $cell) // for every sub-array iterate through all values
+		        {
+		           echo "\t<td>" . $cell . "</td>\n"; // write cells next to each other
+		        }
+		    echo "</tr>\n"; // end row
+
+		}
+
+		echo "</table>"; ?>
