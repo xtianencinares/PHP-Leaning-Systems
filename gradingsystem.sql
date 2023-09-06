@@ -233,7 +233,7 @@ CREATE TABLE IF NOT EXISTS `subject_teacher_list` (
 --
 
 INSERT INTO `subject_teacher_list` (`subject_teacher_pri`, `class_id`, `subject_id`, `subject_teacher_id`, `teacher_id`) VALUES
-(2, '568fd776849c0', 'S-001', 'T-001', '568fd776849c0'),
+(2, '568fd776849c0', 'S-01', 'T-001', '568fd776849c0'),
 (3, '568fd776849c0', 'S-007', 'T-001', '568fd776849c0'),
 (4, '568fd776849c0', 'S-013', 'T-001', '568fd776849c0'),
 (5, '568fd776849c0', 'S-019', 'T-001', '568fd776849c0'),
