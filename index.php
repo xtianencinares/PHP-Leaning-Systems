@@ -273,7 +273,7 @@ switch (ENVIRONMENT)
 
 
 
-	if (($_temp = realpath($view_folder)) !== FALSE)
+	 if (($_temp = realpath($view_folder)) !== FALSE)
 	{
 		$view_folder = $_temp.DIRECTORY_SEPARATOR;
 	}
