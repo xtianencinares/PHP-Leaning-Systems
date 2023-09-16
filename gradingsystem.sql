@@ -363,7 +363,7 @@ ADD CONSTRAINT `f_teacher_id` FOREIGN KEY (`teacher_id`) REFERENCES `user_list` 
 --
 -- Constraints for table `criteria_list`
 --
-ALTER TABLE `criteria_list`
+ ALTER TABLE `criteria_list`
 ADD CONSTRAINT `subject_teacher_id` FOREIGN KEY (`subject_teacher_id`) REFERENCES `subject_teacher_list` (`subject_teacher_pri`) ON DELETE CASCADE ON UPDATE CASCADE;
 
 --
