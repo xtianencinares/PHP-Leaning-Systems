@@ -90,7 +90,7 @@ INSERT INTO `enrolled_list` (`class_id`, `student_id`, `school_year`, `en_id`) V
 ('568fd776849c0', 'S-006', '', 12),
 ('568fd776849c0', 'S-005', '', 13);
 
--- --------------------------------------------------------
+---------------------------------------------------------
 
 --
 -- Table structure for table `results_list`
