@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS `class_list` (
  INSERT INTO `class_list` (`class_id`, `teacher_id`, `school_year`, `grade`, `section`) VALUES
 ('568fd776849c0', 'T-001', '2015-2016', 'One', '1');
 
-------------------------------------------------------
+--------------------------------------------------------
 
 --
 -- Table structure for table `criteria_list`
