@@ -56,9 +56,9 @@
 	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
 
 /*
- *------------------------------------------------------------
+ *-----------------------------------------------------------
  * ERROR REPORTING
- *------------------------------------------------------------
+ *-----------------------------------------------------------
  *
  * Different environments will require different levels of error reporting.
  * By default development will show errors but testing and live will hide them.
@@ -130,9 +130,9 @@ switch (ENVIRONMENT)
 	$view_folder = '';
  
 /*
- * ---------------------------------------------------------------
+ * --------------------------------------------------------------
  * DEFAULT CONTROLLER
- * ---------------------------------------------------------------
+ * --------------------------------------------------------------
  *
  * Normally you will set your default controller in the routes.php file.
  * You can, however, force a custom routing by hard-coding a
