@@ -115,9 +115,9 @@ switch (ENVIRONMENT)
 	$application_folder = 'application';
 
 /*
- *---------------------------------------------------------------
+ *------------------------------------------------------------
  * VIEW FOLDER NAME
- *---------------------------------------------------------------
+ *------------------------------------------------------------
  *
  * If you want to move the view folder out of the application
  * folder set the path to the folder here. The folder can be renamed
@@ -130,9 +130,9 @@ switch (ENVIRONMENT)
 	$view_folder = '';
  
 /*
- * --------------------------------------------------------------------
+ * ---------------------------------------------------------------
  * DEFAULT CONTROLLER
- * --------------------------------------------------------------------
+ * ---------------------------------------------------------------
  *
  * Normally you will set your default controller in the routes.php file.
  * You can, however, force a custom routing by hard-coding a
@@ -160,9 +160,9 @@ switch (ENVIRONMENT)
 
 
 /*
- * -------------------------------------------------------------------
+ * -----------------------------------------------------------------
  *  CUSTOM CONFIG VALUES
- * -------------------------------------------------------------------
+ * -----------------------------------------------------------------
  *
  * The $assign_to_config array below will be passed dynamically to the
  * config class when initialized. This allows you to set custom config
