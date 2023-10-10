@@ -133,7 +133,7 @@ INSERT INTO `results_list` (`results_id`, `student_id`, `criteria_id`, `score`) 
 ('568feb29b3657', 'S-006', '568feb22e148f', '0'),
 ('568feb29bc205', 'S-005', '568feb22e148f', '0');
 
--- --------------------------------------------------------
+-- --------------------------------------------------
 
 --
 -- Table structure for table `student_list`
