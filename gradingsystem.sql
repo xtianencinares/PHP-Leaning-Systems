@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 -- Table structure for table `class_list`
 --
 
-CREATE TABLE IF NOT EXISTS `class_list` (
+CREATE TABLE IF NOT EXISTS `class_list` ( 
   `class_id` varchar(15) NOT NULL,
   `teacher_id` varchar(15) DEFAULT NULL,
   `school_year` varchar(45) DEFAULT NULL,
