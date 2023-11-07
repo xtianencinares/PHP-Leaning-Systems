@@ -202,7 +202,7 @@ switch (ENVIRONMENT)
 	else
 	{
 		// Ensure there's a trailing slash
-		$system_path = rtrim($system_path, '/').'/';
+		$system_path = rtrim($system_path, '/').'/'; 
 	}
 
 	// Is the system path correct?
