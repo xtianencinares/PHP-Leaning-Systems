@@ -235,7 +235,7 @@ switch (ENVIRONMENT)
 
 		define('APPPATH', $application_folder.DIRECTORY_SEPARATOR);
 	}
-	else
+	else 
 	{
 		if ( ! is_dir(BASEPATH.$application_folder.DIRECTORY_SEPARATOR))
 		{
