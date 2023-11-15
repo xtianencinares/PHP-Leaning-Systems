@@ -31,7 +31,7 @@ CREATE TABLE IF NOT EXISTS `class_list` (
   `teacher_id` varchar(15) DEFAULT NULL,
   `school_year` varchar(45) DEFAULT NULL,
   `grade` varchar(45) DEFAULT NULL,
-  `section` varchar(45) DEFAULT NULL
+  `section` varchar(45) DEFAULT NULL 
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
@@ -90,7 +90,7 @@ INSERT INTO `enrolled_list` (`class_id`, `student_id`, `school_year`, `en_id`) V
 ('568fd776849c0', 'S-006', '', 12),
 ('568fd776849c0', 'S-005', '', 13);
 
----------------------------------------------------------
+----------------------------------------------------------------
 
 --
 -- Table structure for table `results_list`
