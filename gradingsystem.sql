@@ -20,7 +20,7 @@ SET time_zone = "+00:00";
 -- Database: `gradingsystem`
 --
 
--- ------------------------------------------------
+-- ---------------------------------------------------------
 
 --
 -- Table structure for table `class_list`
@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS `class_list` (
  INSERT INTO `class_list` (`class_id`, `teacher_id`, `school_year`, `grade`, `section`) VALUES
 ('568fd776849c0', 'T-001', '2015-2016', 'One', '1');
 
---------------------------------------------------------
+------------------------------------------------------------
 
 --
 -- Table structure for table `criteria_list`
@@ -90,7 +90,7 @@ INSERT INTO `enrolled_list` (`class_id`, `student_id`, `school_year`, `en_id`) V
 ('568fd776849c0', 'S-006', '', 12),
 ('568fd776849c0', 'S-005', '', 13);
 
-----------------------------------------------------------------
+---------------------------------------------------------------
 
 --
 -- Table structure for table `results_list`
@@ -133,7 +133,7 @@ INSERT INTO `results_list` (`results_id`, `student_id`, `criteria_id`, `score`) 
 ('568feb29b3657', 'S-006', '568feb22e148f', '0'),
 ('568feb29bc205', 'S-005', '568feb22e148f', '0');
 
--- --------------------------------------------------
+-- -----------------------------------------------------------
 
 --
 -- Table structure for table `student_list`
@@ -159,7 +159,7 @@ INSERT INTO `student_list` (`student_id`, `fname`, `mname`, `lname`, `gender`) V
 ('S-005', 'Paul Henry', 'Latoga', 'Jazmin', 'Male'),
 ('S-006', 'Paul Andrew ', 'Short', 'Bercasio', 'Male');
 
--- --------------------------------------------------------
+-- ---------------------------------------------------------------
 
 --
 -- Table structure for table `subject_list`
