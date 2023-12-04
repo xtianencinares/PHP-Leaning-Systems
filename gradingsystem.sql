@@ -253,7 +253,7 @@ CREATE TABLE IF NOT EXISTS `teacher_subjects` (
 -- --------------------------------------------------------
 
 --
--- Table structure for table `user_list`
+-- Table structure for table `user_list Input`
 --
 
 CREATE TABLE IF NOT EXISTS `user_list` (
