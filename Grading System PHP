@@ -249,7 +249,7 @@ switch (ENVIRONMENT)
 
 	// The path to the "views" folder
 	if ( ! is_dir($view_folder))
-	{
+	{ 
 		if ( ! empty($view_folder) && is_dir(APPPATH.$view_folder.DIRECTORY_SEPARATOR))
 		{
 			$view_folder = APPPATH.$view_folder;
