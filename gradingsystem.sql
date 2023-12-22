@@ -82,7 +82,7 @@ CREATE TABLE IF NOT EXISTS `enrolled_list` (
 -- Dumping data for table `enrolled_list`
 --
 
-INSERT INTO `enrolled_list` (`class_id`, `student_id`, `school_year`, `en_id`) VALUES
+INSERT INTO `enrolled_list` (`class_id`, `student_id`, `school_year`, `en_id`) VALUES 
 ('568fd776849c0', 'S-001', '', 8),
 ('568fd776849c0', 'S-002', '', 9),
 ('568fd776849c0', 'S-003', '', 10),
