@@ -159,7 +159,7 @@ INSERT INTO `student_list` (`student_id`, `fname`, `mname`, `lname`, `gender`) V
 ('S-005', 'Paul Henry', 'Latoga', 'Jazmin', 'Male'),
 ('S-006', 'Paul Andrew ', 'Short', 'Bercasio', 'Male');
 
--- ---------------------------------------------------------------
+-- --------------------------------------------------------------
 
 --
 -- Table structure for table `subject_list`
