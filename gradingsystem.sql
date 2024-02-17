@@ -17,11 +17,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */; 
 
 -- 
--- Database: `gradingsystem`
+-- Database: `gradingsystem` 
 --
 
 -- ---------------------------------------------------------
-
 --
 -- Table structure for table `class_list`
 --
