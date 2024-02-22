@@ -206,7 +206,7 @@ INSERT INTO `subject_list` (`subject_id`, `grade`, `subject`, `subject_code`) VA
 ('S-028', 'Four', 'AP 4', 'Araling Panlipunan'),
 ('S-029', 'Five', 'AP 5', 'Araling Panlipunan'),
 ('S-030', 'Six', 'AP 6', 'Araling Panlipunan'),
-('S-031', 'One', 'MSEP 1', 'MSEP'),
+('S-031', 'One', 'MSEP 1', 'MSEP'), 
 ('S-032', 'Two', 'MSEP 2', 'MSEP'),
 ('S-033', 'Three', 'MSEP 3', 'MSEP'),
 ('S-034', 'Four', 'MSEP 4', 'MSEP'),
