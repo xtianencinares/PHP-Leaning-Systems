@@ -209,7 +209,7 @@ switch (ENVIRONMENT)
 
 /*
  * -------------------------------------------------------------------
- *  Now that we know the path, set the main path constants
+ *  Now that we know the path, set the main path constants.
  * -------------------------------------------------------------------
  */
 	// The name of THIS file
