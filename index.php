@@ -142,7 +142,7 @@ switch (ENVIRONMENT)
  * WILL NOT set your routing here, but it's an option for those
  * special instances where you might want to override the standard
  * routing in a specific front controller that shares a common CI installation.
- *
+ * 
  * IMPORTANT: If you set the routing here, NO OTHER controller will be
  * callable. In essence, this preference limits your application to ONE
  * specific controller. Leave the function name blank if you need
