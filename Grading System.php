@@ -113,7 +113,7 @@ switch (ENVIRONMENT)
  
 /*  
  *------------------------------------------------------------
- * VIEW FOLDER NAME
+ * VIEW FOLDER NAME 
  *------------------------------------------------------------
  *
  * If you want to move the view folder out of the application
