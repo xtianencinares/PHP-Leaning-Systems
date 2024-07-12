@@ -134,10 +134,6 @@ INSERT INTO `results_list` (`results_id`, `student_id`, `criteria_id`, `score`) 
 
 -- -----------------------------------------------------------
 
---
--- Table structure for table `student_list`
---
-
 CREATE TABLE IF NOT EXISTS `student_list` (
   `student_id` varchar(15) NOT NULL,
   `fname` varchar(45) DEFAULT NULL,
