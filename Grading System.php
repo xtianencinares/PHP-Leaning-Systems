@@ -34,9 +34,9 @@
  * @filesource
  */
 /*
- *------------------------------------------------------------------
+ *-----------------------------------------------------------
  * APPLICATION ENVIRONMENT 
- *------------------------------------------------------------------
+ *-----------------------------------------------------------
  *
  * You can load different configurations depending on your
  * current environment. Setting the environment also influences
@@ -52,9 +52,9 @@
  */ 
 	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
 /*
- *--------------------------------------------------------
+ *-------------------------------------------------------
  * ERROR REPORTING v1.2
- *--------------------------------------------------------
+ *-------------------------------------------------------
  *
  * Different environments will require different levels of error reporting
  * By default development will show errors but testing and live will hide them.
