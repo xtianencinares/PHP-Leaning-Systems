@@ -87,7 +87,7 @@ switch (ENVIRONMENT)
  
 /*
  *------------------------------------------------------------------
- * SYSTEM FOLDER NAME
+ * SYSTEM FOLDER NAME Server Agoo
  *------------------------------------------------------------------
  *
  * This variable must contain the name of your "system" folder.
