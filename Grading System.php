@@ -99,7 +99,7 @@ switch (ENVIRONMENT)
  *---------------------------------------------------------------
  * APPLICATION FOLDER NAME
  *---------------------------------------------------------------
- *
+ * 
  * If you want this front controller to use a different "application"
  * folder than the default one you can set its name here. The folder
  * can also be renamed or relocated anywhere on your server. If
