@@ -126,9 +126,9 @@ switch (ENVIRONMENT)
 	$view_folder = '';
  
 /*
- * --------------------------------------------------------------
+ * ------------------------------------------------------------
  * DEFAULT CONTROLLER
- * --------------------------------------------------------------
+ * ------------------------------------------------------------
  *
  * Normally you will set your default controller in the routes.php file.
  * You can, however, force a custom routing by hard-coding a
