@@ -53,7 +53,7 @@
 	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
 /*
  *-------------------------------------------------------
- * ERROR REPORTING v1.2
+ * ERROR REPORTING v1.20
  *-------------------------------------------------------
  *
  * Different environments will require different levels of error reporting
