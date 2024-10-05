@@ -270,7 +270,7 @@ INSERT INTO `user_list` (`user_id`, `fname`, `mname`, `lname`, `uname`, `passwor
 ('T-001', 'Grace', 'Cunanan', 'Valenzuela', 'grace', 'grace', 'Teacher'),
 ('T-002', 'Mike', 'Dollesin', 'Brogada', 'mike', 'mike', 'Teacher');
 
--- --------------------------------------------------------
+-- -------------------------------------------------------
 
 --
 -- Structure for view `teacher_subjects`
