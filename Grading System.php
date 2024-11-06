@@ -96,9 +96,9 @@ switch (ENVIRONMENT)
  */
 	$system_path = 'system';
 /*
- *---------------------------------------------------------------
+ *-----------------------------------------------------------------
  * APPLICATION FOLDER NAME
- *---------------------------------------------------------------
+ *-----------------------------------------------------------------
  * 
  * If you want this front controller to use a different "application"
  * folder than the default one you can set its name here. The folder
