@@ -52,9 +52,9 @@
  */ 
 	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
 /*
- *-------------------------------------------------
+ *------------------------------------------------------------
  * ERROR REPORTING v1.20.1
- *-------------------------------------------------
+ *-------------------------------------------------------------
  *
  * Different environments will require different levels of error reporting
  * By default development will show errors but testing and live will hide them.
@@ -111,9 +111,9 @@ switch (ENVIRONMENT)
 	$application_folder = 'application';
  
 /*  
- *------------------------------------------------------------
+ *---------------------------------------------------------------
  * VIEW FOLDER NAME 
- *------------------------------------------------------------
+ *---------------------------------------------------------------
  *
  * If you want to move the view folder out of the application
  * folder set the path to the folder here. The folder can be renamed
@@ -177,9 +177,9 @@ switch (ENVIRONMENT)
 // --------------------------------------------------------------------
 
 /*
- * ---------------------------------------------------------------
+ * -------------------------------------------------------------------
  *  Resolve the system path for increased reliability
- * ---------------------------------------------------------------
+ * -------------------------------------------------------------------
  */
 
 	// Set the current directory correctly for CLI requests
