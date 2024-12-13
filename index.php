@@ -266,7 +266,7 @@ switch (ENVIRONMENT)
 			exit(3); // EXIT_CONFIG
 		}
 		else
-		{
+		{ 
 			$view_folder = APPPATH.'views';
 		}
 	}
