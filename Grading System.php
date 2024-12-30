@@ -278,7 +278,7 @@ switch (ENVIRONMENT)
 
 /*
  * ------------------------------------------------------------
- * LOAD THE BOOTSTRAP FILE V3.1 Agoo
+ * LOAD THE BOOTSTRAP FILE V3.1 Agoo TM
  * ------------------------------------------------------------
  *
  */
