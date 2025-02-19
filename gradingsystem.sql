@@ -64,7 +64,7 @@ INSERT INTO `criteria_list` (`idcriteria_list`, `subject_teacher_id`, `category`
 ('568feb1e0cfdd', 2, 'QA', '1st', 80),
 ('568feb22e148f', 2, 'WW', '1st', 50);
 
--- -------------------------------------------------------
+-- -------------------------------------------------------------
 
 --
 -- Table structure for table `enrolled_list`
